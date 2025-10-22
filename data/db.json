@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "cName": "polo",
-      "cAmount": 18,
-      "cPrice": 12000
-    },
-    {
       "id": "2",
       "cName": "jacet",
       "cAmount": 11,
@@ -91,25 +85,24 @@
       "cPrice": "50000",
       "itogo": 1150000,
       "cDate": "2025-10-22"
+    },
+    {
+      "id": "fa5a3733-04ed-4f11-be35-ce5a09d08f76",
+      "cName": "polo",
+      "cAmount": 17,
+      "cPrice": "30000",
+      "itogo": 600000,
+      "cDate": "2025-10-22"
     }
   ],
   "sales": [
     {
-      "id": "432b80d0-d411-4767-9528-d11301a44507",
-      "sName": "nimcha",
+      "id": "c73a64fc-1930-4341-95e7-8685047f303e",
+      "sName": "polo",
       "sAmount": 3,
-      "sPrice": 34000,
-      "itogo": 102000,
-      "sProfit": 12000,
-      "sana": "2025-10-21"
-    },
-    {
-      "id": "901dadb5-cb7d-4622-92be-183d05417cc2",
-      "sName": "cjbcejkbcnkjwejlbcwenc nehcwk idhuiqhiqw jkhjwqcb",
-      "sAmount": 5,
-      "sPrice": 63000,
-      "itogo": 315000,
-      "sProfit": 65000,
+      "sPrice": 40000,
+      "itogo": 120000,
+      "sProfit": 30000,
       "sana": "2025-10-22"
     }
   ]
