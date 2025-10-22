@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "cName": "polo",
+      "cAmount": 18,
+      "cPrice": 12000
+    },
+    {
+      "id": "2",
+      "cName": "jacet",
+      "cAmount": 11,
+      "cPrice": 20000
+    },
+    {
+      "id": "ccbc09ba-4c45-41ef-8160-4cb5fcdad4d2",
+      "cName": "iphone",
+      "cAmount": 4,
+      "cPrice": "1500000",
+      "itogo": 7500000,
+      "cDate": "2025-10-20"
+    },
+    {
+      "id": "bba19ddb-6984-488a-b41c-de1386da6f2d",
+      "cName": "nimcha",
+      "cAmount": 17,
+      "cPrice": "30000",
+      "itogo": 660000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "aa37def2-6b52-4078-9822-71d50ad305dc",
+      "cName": "hermes",
+      "cAmount": "30",
+      "cPrice": "22000",
+      "itogo": 660000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "1b2bb6a9-1044-451f-8177-7e301fc886c1",
+      "cName": "adidas",
+      "cAmount": "30",
+      "cPrice": "15000",
+      "itogo": 450000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "03b72ef6-5669-46ad-948a-683dfa784370",
+      "cName": "armani",
+      "cAmount": "12",
+      "cPrice": "23000",
+      "itogo": 276000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "6d3e5dee-d4a1-4403-b79c-b90fb0a60415",
+      "cName": "lacoste",
+      "cAmount": "50",
+      "cPrice": "25000",
+      "itogo": 1250000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "ef2e299f-b81c-4277-a437-0c37494a4e78",
+      "cName": "massimo",
+      "cAmount": "40",
+      "cPrice": "14000",
+      "itogo": 560000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "a177a935-6570-42cd-bbae-27b3c1b6d87d",
+      "cName": "ice",
+      "cAmount": "50",
+      "cPrice": "12000",
+      "itogo": 600000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "2791e3af-9049-44bb-8d90-af1657c2da64",
+      "cName": "puma",
+      "cAmount": "32",
+      "cPrice": "15000",
+      "itogo": 480000,
+      "cDate": "2025-10-21"
+    },
+    {
+      "id": "46f1d434-d2b4-41d0-acc5-3b48e6eacca8",
+      "cName": "cjbcejkbcnkjwejlbcwenc nehcwk idhuiqhiqw jkhjwqcb",
+      "cAmount": 18,
+      "cPrice": "50000",
+      "itogo": 1150000,
+      "cDate": "2025-10-22"
+    }
+  ],
+  "sales": [
+    {
+      "id": "432b80d0-d411-4767-9528-d11301a44507",
+      "sName": "nimcha",
+      "sAmount": 3,
+      "sPrice": 34000,
+      "itogo": 102000,
+      "sProfit": 12000,
+      "sana": "2025-10-21"
+    },
+    {
+      "id": "901dadb5-cb7d-4622-92be-183d05417cc2",
+      "sName": "cjbcejkbcnkjwejlbcwenc nehcwk idhuiqhiqw jkhjwqcb",
+      "sAmount": 5,
+      "sPrice": 63000,
+      "itogo": 315000,
+      "sProfit": 65000,
+      "sana": "2025-10-22"
+    }
+  ]
+}

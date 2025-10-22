@@ -1,0 +1,87 @@
+.productList{
+    padding: 10px;
+    margin: 15px 0;
+
+
+    &-title{
+        text-align: center;
+        text-transform: capitalize;
+        font-weight: bold;
+        border: var(--border);
+        padding: 10px 0;
+        background: var(--bg);
+    }
+
+
+    &-cards{
+        margin: 10px 0;
+        background: var(--bg);
+        padding: 10px;
+
+
+        &-card{
+            background: white;
+            padding: 10px;
+            border-radius: 10px;
+            margin: 15px 0;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+
+
+            &-text{text-transform: capitalize;
+
+
+                &-span{
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+
+
+@media(max-width: 415px){
+  .productList{
+    // padding: 10px;
+    margin: 10px 0;
+
+
+    // &-title{
+    //     text-align: center;
+    //     text-transform: capitalize;
+    //     font-weight: bold;
+    //     border: var(--border);
+    //     padding: 10px 0;
+    //     background: var(--bg);
+    // }
+
+
+    &-cards{
+        margin: 5px 0;
+        // background: var(--bg);
+        padding: 6px;
+
+
+        &-card{
+            // background: white;
+            // padding: 10px;
+            // border-radius: 10px;
+            // margin: 15px 0;
+            // display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 5px;
+
+
+            &-text{
+                // text-transform: capitalize;
+                padding: 5px;
+
+
+                // &-span{
+                //     font-weight: bold;
+                // }
+            }
+        }
+    }
+}  
+}
